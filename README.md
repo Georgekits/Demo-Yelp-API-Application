@@ -7,7 +7,9 @@ About:
   or into a file.
   
 Run SETUP:
+
   -Clone the project or download the zip file.
+  
   -It's a Java Application so, open it through an IDE (e.g. NetBeans IDE).
   
 The GUI has been built with JAVA Swing components.
