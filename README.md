@@ -1,6 +1,11 @@
 # Demo-Yelp-API-Application
 Java SE - Java Swing
 
+DATABASE CONFIGURATION:
+
+-Inside root folder, search database.properties file and fill your database credentials.
+
+
 About:
   It's a university project that fetch data from Yelp API for finding shops to different towns in America.
   You can store this data either into your database where you can give your credentials to database.properties file
